@@ -1,0 +1,7 @@
+{
+  "GA_best_fitness": 0.32632959340817413,
+  "random_search_best_fitness": -2.7344089297644447,
+  "GA_evaluations": 1050,
+  "random_search_evaluations": 40,
+  "note": "Illustrative unequal-budget baseline; increase random trials to match the GA evaluation budget for a fair comparison."
+}
