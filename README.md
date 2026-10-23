@@ -7,10 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-lightgrey)
 ![License](https://img.shields.io/badge/License-Educational-informational)
 
-> **Course:** Artificial Intelligence — BSCS 5  
+> **Course:** Artificial Intelligence — BSCS 5A  
 **Assignment:** Assignment 2  
-**Department:** Computer Science  
-**Institution:** Bahria University, Lahore Campus  
 **Project Type:** AI Optimization and Simulation
 
 ## 1. Project Overview
