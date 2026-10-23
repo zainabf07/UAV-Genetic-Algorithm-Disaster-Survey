@@ -164,6 +164,7 @@ Inspect the generated graphs, JSON metrics, and best chromosome to understand th
 ```text
 UAV_GA_Assignment2/
 ├── README.md
+├── .gitignore
 ├── requirements.txt
 ├── src/
 │   └── uav_ga.py
