@@ -7,10 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-lightgrey)
 ![License](https://img.shields.io/badge/License-Educational-informational)
 
-> **Course:** Artificial Intelligence — BSCS 5A  
-**Assignment:** Assignment 2  
-**Project Type:** AI Optimization and Simulation
-
 ## 1. Project Overview
 
 This project implements a Genetic Algorithm (GA) to optimize the deployment and route planning of three Unmanned Aerial Vehicles (UAVs) in a simulated disaster-surveillance environment.
